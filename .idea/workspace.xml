@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="643eb9c7-f2b3-40f3-affa-bb354a3ca992" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XOPS2XPeSfxO2HzooM5XCSrSCd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="237" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ui" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Agenda" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="643eb9c7-f2b3-40f3-affa-bb354a3ca992" name="Default Changelist" comment="" />
+      <created>1580914163368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580914163368</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1743" y="297" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580914532135">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1743" y="297" key="#com.intellij.ide.util.TreeClassChooserDialog/0.24.1366.744/1366.0.1280.1024@1366.0.1280.1024" timestamp="1580914532135" />
+    <state x="1852" y="403" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580914797673">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1852" y="403" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.24.1366.744/1366.0.1280.1024@1366.0.1280.1024" timestamp="1580914797673" />
+    <state x="1366" y="24" width="1280" height="1000" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580993814776">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1366" y="24" width="1280" height="1000" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.24.1366.744/1366.0.1280.1024@1366.0.1280.1024" timestamp="1580993814776" />
+    <state x="1791" y="299" key="#com.intellij.uiDesigner.palette.ComponentItemDialog" timestamp="1580919240581">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1791" y="299" key="#com.intellij.uiDesigner.palette.ComponentItemDialog/0.24.1366.744/1366.0.1280.1024@1366.0.1280.1024" timestamp="1580919240581" />
+    <state width="1234" height="278" key="GridCell.Tab.0.bottom" timestamp="1580997001741">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1234" height="278" key="GridCell.Tab.0.bottom/0.24.1366.744/1366.0.1280.1024@1366.0.1280.1024" timestamp="1580997001741" />
+    <state width="1234" height="278" key="GridCell.Tab.0.center" timestamp="1580997001741">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1234" height="278" key="GridCell.Tab.0.center/0.24.1366.744/1366.0.1280.1024@1366.0.1280.1024" timestamp="1580997001741" />
+    <state width="1234" height="278" key="GridCell.Tab.0.left" timestamp="1580997001741">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1234" height="278" key="GridCell.Tab.0.left/0.24.1366.744/1366.0.1280.1024@1366.0.1280.1024" timestamp="1580997001741" />
+    <state width="1234" height="278" key="GridCell.Tab.0.right" timestamp="1580997001741">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1234" height="278" key="GridCell.Tab.0.right/0.24.1366.744/1366.0.1280.1024@1366.0.1280.1024" timestamp="1580997001741" />
+    <state x="1500" y="146" key="SettingsEditor" timestamp="1580914887658">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1500" y="146" key="SettingsEditor/0.24.1366.744/1366.0.1280.1024@1366.0.1280.1024" timestamp="1580914887658" />
+    <state x="1667" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1580993587007">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1667" y="339" key="com.intellij.ide.util.TipDialog/0.24.1366.744/1366.0.1280.1024@1366.0.1280.1024" timestamp="1580993587007" />
+  </component>
+</project>
